@@ -1,1 +1,3 @@
-# jimo-landing
+# JIMO
+
+Jerrricom International Medical Organisation landing page
